@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07d7438e.css",
+    "main.js": "/static/js/main.b76bb1e3.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/volunteer-10.jpg.PNG": "/static/media/volunteer-10.jpg.a98101d6e1a523bee304.PNG",
+    "static/media/volunteer-3.jpg.JPG": "/static/media/volunteer-3.jpg.a5359c3e2c5cbf438f48.JPG",
+    "static/media/volunteer-5.jpg.jpeg": "/static/media/volunteer-5.jpg.f8524c9ca48da0cff208.jpeg",
+    "static/media/volunteer-11.jpg.jpeg": "/static/media/volunteer-11.jpg.38147135ad85b669c4b6.jpeg",
+    "static/media/sakaheadshot.jpg": "/static/media/sakaheadshot.87cf6e4f6595a2c49afb.jpg",
+    "static/media/volunteer-4.jpg.JPG": "/static/media/volunteer-4.jpg.41c3ee91f5ec4548cb2a.JPG",
+    "static/media/volunteer-1.jpg.JPG": "/static/media/volunteer-1.jpg.cf3114ff5bde3c7fa7d1.JPG",
+    "static/media/volunteer-8.jpg.JPG": "/static/media/volunteer-8.jpg.e7cb27a19f55a5791137.JPG",
+    "static/media/sot.jpg": "/static/media/sot.fba7ebfd63116a9df69c.jpg",
+    "static/media/volunteer-12.jpg.JPG": "/static/media/volunteer-12.jpg.03080df52bf4e928d3fb.JPG",
+    "static/media/volunteer-7.jpg.JPG": "/static/media/volunteer-7.jpg.4bf31c2ff379e44c983a.JPG",
+    "static/media/volunteer-9.jpg.JPG": "/static/media/volunteer-9.jpg.de0b1a41d025b51dd7ec.JPG",
+    "static/media/gsa-2023-poster.jpg.JPG": "/static/media/gsa-2023-poster.jpg.699bb68536f8a9a59f9d.JPG",
+    "static/media/volunteer-6.jpg.JPG": "/static/media/volunteer-6.jpg.25163c1ca43148d9fa3d.JPG",
+    "static/media/volunteer-2.jpg.JPG": "/static/media/volunteer-2.jpg.d9d68a95312e1af7a304.JPG",
+    "index.html": "/index.html",
+    "main.07d7438e.css.map": "/static/css/main.07d7438e.css.map",
+    "main.b76bb1e3.js.map": "/static/js/main.b76bb1e3.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d7438e.css",
+    "static/js/main.b76bb1e3.js"
+  ]
+}
